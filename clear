@@ -1,0 +1,53 @@
+[33mcommit ae6dcdc3f619ce09b5aae46d036ae7fd887081a4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 15:26:31 2024 -0300
+
+    Criado página de blog
+
+[33mcommit af679b98e9efddb1a81071741afeca8dd6eb1cf4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 15:03:38 2024 -0300
+
+    Excluído arquivos duplicados
+
+[33mcommit 434200f52efdf9db96daf3b465d5ba719f118d6a[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 15:02:38 2024 -0300
+
+    Renomeando e organizando arquivos das pastas
+
+[33mcommit a3988adf06ab1d28db46968d3f7ad0025e7effcc[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 14:57:12 2024 -0300
+
+    Criado h2 na segunda-pagina
+
+[33mcommit 8e59faae6428ab7938d282255378c4e6437c71d9[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 14:47:09 2024 -0300
+
+    Criado segunda-pagina para acessar/retornar
+
+[33mcommit ac9b8c1608affed8b6165be19ebbf574bb2663e1[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 14:39:20 2024 -0300
+
+    Criado um link de direcionamento para a página DevSuperior dentro do index
+
+[33mcommit b68546a1fc838f8edf1cb680219d77a37f952044[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 14:35:47 2024 -0300
+
+    Criado index do primeiro desafio
+
+[33mcommit 1fa81d9f0fa023d76eae70343018a4e59e7128ef[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 14:09:39 2024 -0300
+
+    Acrescentado valor das vendas
+
+[33mcommit 779d6e9415a9e28435b93089d6e2b745e995a5e2[m
+Author: Yruan Silveira <yruansilveira18@gmail.com>
+Date:   Wed Jul 24 13:59:00 2024 -0300
+
+    Criadas páginas index e vendas
